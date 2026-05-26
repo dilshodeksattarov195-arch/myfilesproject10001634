@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdncrypt",
+        "uuid": 4918340,
+        "checksum": "lmoq68"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
